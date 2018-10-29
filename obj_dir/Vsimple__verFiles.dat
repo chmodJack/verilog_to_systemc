@@ -1,0 +1,12 @@
+# DESCRIPTION: Verilator output: Timestamp data for --skip-identical.  Delete at will.
+C "--sc simple.v"
+S   4117944  3932345  1433741508 "/usr/bin/verilator_bin"
+T      4717 10094938  1540798551 "obj_dir/Vsimple.cpp"
+T      2280 10094937  1540798551 "obj_dir/Vsimple.h"
+T      1724 10094940  1540798551 "obj_dir/Vsimple.mk"
+T       579 10094936  1540798551 "obj_dir/Vsimple__Syms.cpp"
+T      1010 10094935  1540798551 "obj_dir/Vsimple__Syms.h"
+T       218 10094941  1540798551 "obj_dir/Vsimple__ver.d"
+T         0        0  1540798551 "obj_dir/Vsimple__verFiles.dat"
+T      1088 10094939  1540798551 "obj_dir/Vsimple_classes.mk"
+S       130  8390628  1540780817 "simple.v"
